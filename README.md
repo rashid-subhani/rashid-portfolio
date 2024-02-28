@@ -1,9 +1,9 @@
 ## Rashid's Portfolio
 As a dedicated web developer, I showcase my commitment to innovation and functionality through a collection of dynamic projects.
 //===============================================
-# Link of Github & Live:
+# Links for Github & Live:
 https://github.com/rashid-subhani/rashid-portfolio
-//===============================================
+
 https://rashid-subhani.github.io/rashid-portfolio/
 
 # About Me
@@ -17,7 +17,7 @@ Proven ability to translate design concepts into functional and intuitive user i
 Project Highlights:
 # Project Name 1: Weather-dashboard
 
-Description: A responsive weather dashboard that provides real-time weather information, featuring dynamic data fetching and a user-friendly interface
+Description: A responsive weather dashboard that provides real-time weather information, featuring dynamic data fetching and a user-friendly interface.
 link: "https://github.com/rashid-subhani/weather-dashboard"
 
 # Project Name 2: Team-profile-generator
@@ -35,4 +35,5 @@ I am always open to new opportunities and collaborations. If you're interested i
 
 Email: [ras.sub2003@gmail.com]
 LinkedIn: [[Your LinkedIn Profile](https://github.com/rashid-subhani)]
+
 Let's connect and create something amazing together!
