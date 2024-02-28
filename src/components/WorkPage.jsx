@@ -25,11 +25,11 @@ const projects = [
 
 function WorkPage() {
   return (
-   <div>
-    <h1>My work</h1>
-    {projects.map(project => <Work title ={project.title} link={project.link} imageSrc={project.imgSrc} description={project.description}  key={project.title}/>)}
-   </div>
-  );
+//    <div className="page-section full-width vertical-container">
+//     <h1>My work</h1>
+//     {projects.map(project => <Work title ={project.title} link={project.link} imageSrc={project.imgSrc} description={project.description}  key={project.title}/>)}
+//    </div>
+//   );
 }
 
 export default WorkPage;

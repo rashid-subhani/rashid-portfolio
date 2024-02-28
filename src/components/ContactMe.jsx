@@ -15,7 +15,7 @@ const socialIconsStyle = {
 
 function ContactMe() {
   return (
-    <>
+    <div>
       <h2>Contact Me</h2>
       <div style={socialIconsStyle} className="social-icons">
         <a style={linkStyle} href="mailto:ras.sub2003@gmail.com">ras.sub2003@gmail.com</a>
@@ -30,7 +30,7 @@ function ContactMe() {
         <br />
         <a style={linkStyle} href="https://www.instagram.com/ras_sub2003/">Instagram</a>
       </div>
-      </>
+    </div>
   );
 }
 
