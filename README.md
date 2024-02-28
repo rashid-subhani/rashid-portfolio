@@ -1,6 +1,11 @@
 ## Rashid's Portfolio
 As a dedicated web developer, I showcase my commitment to innovation and functionality through a collection of dynamic projects.
 //===============================================
+## Screenshots
+![alt text](about.png)
+![alt text](work.png)
+![alt text](contact.png)
+
 # Links for Github & Live:
 https://github.com/rashid-subhani/rashid-portfolio
 
